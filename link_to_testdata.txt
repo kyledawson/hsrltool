@@ -1,0 +1,3 @@
+Go the NASA HSRL Sabor campaign field data for some test data:
+
+https://www-air.larc.nasa.gov/missions/sabor/data/index.html
